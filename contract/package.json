@@ -9,7 +9,7 @@
     "test": "echo use integration-tests"
   },
   "dependencies": {
-    "near-cli": "^3.4.2",
+    "near-cli": "^4.0.13",
     "near-sdk-js": "0.6.0"
   },
   "devDependencies": {
